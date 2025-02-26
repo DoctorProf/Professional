@@ -76,7 +76,7 @@
         android:layout_height="56dp"
         android:text="Создать аккаунт"
         android:layout_below="@id/editTextPassword"
-        android:background="@drawable/button_style"
+        android:backgroundTint="#35A2D9"
         android:textColor="#FFFFFF"
         android:textSize="16sp"
         android:layout_marginTop="16dp"
